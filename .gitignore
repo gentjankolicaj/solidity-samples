@@ -1,0 +1,11 @@
+*.swp
+node_modules
+tags
+build
+dist
+**/build
+.DS_STORE
+**/.env
+
+.idea
+*.iml
